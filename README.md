@@ -1,5 +1,6 @@
 # data_projects_tripleten
 Projects I worked on while in the Business Intelligence Bootcamp. 
+| # | Project Name | Project Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Airbnb Investment Analysis Excel Project](https://docs.google.com/spreadsheets/d/1qc_atGeVcNktWB89Ainw1OgWWvR4uierhLiiSuasY38/edit?usp=drive_link) | The project task was to determine what area in Manhattan was the best to invest in Airbnb properties. |
 | 2 | [eCommerce Business Analytics Excel Project](https://docs.google.com/spreadsheets/d/1STtKsIKnq6rtUqRz_3mxyvazWUmho_WUvItbJ8K77z4/edit?usp=sharing) | The project task was to investigate the funnel and conversion metrics of an eCommerce site. |

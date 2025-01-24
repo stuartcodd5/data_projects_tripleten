@@ -3,6 +3,8 @@
 ## Shopify Power BI Project
 [Power BI Shopify Apps Analysis Project](https://drive.google.com/file/d/1rhF9YIBAvo6B9XMtJhkQrVog_8QMzyMZ/view?usp=sharing)
 
+The purpose of this project was to analyze metrics from Shopify's open source data and generate results relating to the current app landscape, how many helpful reviews there are from developers, and the app reviews themselves.
+
 ### Project Overview
 
 1. App Landscape Sheet

@@ -25,27 +25,29 @@ This sheet is to show the table of contents of this project along with one sente
 ![Screenshot 2025-01-21 143106](https://github.com/user-attachments/assets/ff96c21a-c6d5-4617-b50e-de887b464543)
 
 #### Executive Summary
-This sheet gives a summary of my results of this project
 ![Executive Summary sheet](https://github.com/user-attachments/assets/6e87c3f8-a623-457a-b9a4-e072f7d9c075)
+1. **Conversion Funnel** - Of all users, only 29% make it to the shopping cart page, and only 10% of those make it the payment page
+2. **Retention Rates** - Those that made their first purchase in 09-2020 had the most retention rates across all groups
 
 #### Conversion Funnel Sheet
-This sheet shows the conversion rate of users that viewed an item, made it to the shopping cart screen, and then the checkout screen.
 ![conversion rates](https://github.com/user-attachments/assets/1f4c6739-63ae-4ac2-a25b-6a230ef19eea)
+I used aggregate functions to find that only 29% of all users made it to the shopping cart page. And out of that 29%, only 10^ made it to the payment page.
 
 #### Retention Rates Sheet
-This sheet calculates the retention percentage rates based on how many months ago customers interacted with the company website
 ![retention rates sheet](https://github.com/user-attachments/assets/42041dad-2e5f-4fe1-9053-cbbb1956b9d1)
+I found that those users who first purchased an item in 09/2020 had the most retention across all cohort groups.
 
 #### Cohort Analysis Sheet
-This sheet shows the analysis of unique user IDs. This sheet is based on the retention rates sheet.
 ![cohort analysis](https://github.com/user-attachments/assets/8107718b-8762-4ad5-84db-e35ec4c3cd7f)
+This sheet shows the analysis of unique user IDs. I used this pivot table as a building block for the retention rates table. 
 
 #### First Purchase Sheet
-This sheet shows the first purchase date each user made by filtering the order date by MIN
-![first purchase sheet](https://github.com/user-attachments/assets/0280168e-b785-4dd9-87d4-22d2e248b405)
+![first purchase sheet](https://github.com/user-attachments/assets/0280168e-b785-4dd9-87d4-22d2e248b405
+This table is filtered down by order date with the MIN function to show the first purchase date each user made.
 
 #### Purchase Activity Sheet
-This sheet shows the purchase activity of each user ID. Part of my project was to add columns G through J. They include:
+![purchase activity sheet](https://github.com/user-attachments/assets/749cb8a9-dd47-4727-80ca-ea18bd133c42)
+This sheet shows the purchase activity of each user ID. Part of my project was to add columns G through J. These were used for the cohort analysis table:
 1. Column G uses a VLOOKUP to retrieve the first purchase date from the first purchase sheet.
 2. Column H is the Event month condenses the event date into YYYY-MM using a TEXT function
 3. Column I First purchase month does the same thing but with the first purchase

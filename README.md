@@ -29,7 +29,7 @@ This sheet gives a summary of my results of this project
 ![Executive Summary sheet](https://github.com/user-attachments/assets/6e87c3f8-a623-457a-b9a4-e072f7d9c075)
 
 #### Conversion Funnel Sheet
-This sheet shows the conversion rate of users that viewed an item, made it to the shopping cart screen, and then the checkout screen. It also shows the conversion rate from one step to the next
+This sheet shows the conversion rate of users that viewed an item, made it to the shopping cart screen, and then the checkout screen.
 ![conversion rates](https://github.com/user-attachments/assets/1f4c6739-63ae-4ac2-a25b-6a230ef19eea)
 
 #### Retention Rates Sheet

@@ -77,7 +77,9 @@ This shows that men are more inclined to leave a review for a restaurant.
 #### Total Restaurant Popularity By Cost and Total Ratings
 ![image](https://github.com/user-attachments/assets/a38fdc3e-479d-4354-8a21-89b329611569)
 
-##### This bar graph shows how many ratings were given to restaurants based on how much they charge for food. In this graph, it's shown that people like restaurants where the cost is 200 rupees.
+##### This bar graph shows how many ratings were given to restaurants based on how much they charge for food. 
+
+In this graph, it's shown that people like restaurants where the cost is 200 rupees, which is $2.34 US dollars. This leads me to believe that people are more likely to go and purchase cheaper food. Sometimes the food can be better, or they want to go to a restaurant chain like McDonald's.
 
 #### Map of Order Volume in Neighborhoods
 ![image](https://github.com/user-attachments/assets/dc41542c-76ff-4d10-b2ca-01a4957210e1)
